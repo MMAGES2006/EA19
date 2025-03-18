@@ -46,7 +46,7 @@ export class RegistroPage implements OnInit {
   }
 
   onSignUp() {
-    this.router.navigateByUrl("sign-up")
+    this.router.navigateByUrl("registro")
   }
 
 }
